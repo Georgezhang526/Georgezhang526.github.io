@@ -17,7 +17,6 @@ My research direction is secondary batteries, mainly researching electrolyte mec
 Feel free to reach out if you would like to chat!
 
 ## **Recent News**
----
 
 ***Aug 2023***. Ninth China International "Internet +" College Students Innovation and Entrepreneurship Competition **Gold Award**
 
