@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a senior student, majoring in Material Science and Engineering at New Energy Materials and Devices specialty class, [Shenzhen University](https://cmse.szu.edu.cn/ywz/). At present, I have been recommended for further study at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), National Excellent Engineer College, and I am conducting related experiments in Professor Deng Yonghong's research group.
 
-A data-driven personal website
+My research direction is secondary batteries, mainly researching electrolyte mechanisms. At the same time, I have a deep interest in quantum chemistry, hoping to make theoretical calculations one of my development directions.
+
+Feel free to reach out if you would like to chat!
+
+
+Recent News
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
