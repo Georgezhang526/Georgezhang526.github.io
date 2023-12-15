@@ -16,6 +16,16 @@ My research direction is secondary batteries, mainly researching electrolyte mec
 
 Feel free to reach out if you would like to chat!
 
+## **Recent News**
 
-Recent News
-======
+---
+
+***Aug 2023***. Ninth China International "Internet +" College Students Innovation and Entrepreneurship Competition **Gold Award**
+
+***Jan 2023***. National College Student Mathematics Competition (Non-Mathematics Category) Third Prize
+
+***Jun 2022***. Second Prize in the Fourth Metallography Competition of the School of Materials, Shenzhen University
+
+***Sep 2022***. Third Prize for Excellent Student Leaders, Shenzhen University
+
+***Sep 2022*.** Third Prize for Star of Learning, Shenzhen University
