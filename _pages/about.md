@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me- Qiao ZHANG @ SZU"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,7 +17,6 @@ My research direction is secondary batteries, mainly researching electrolyte mec
 Feel free to reach out if you would like to chat!
 
 ## **Recent News**
-
 ---
 
 ***Aug 2023***. Ninth China International "Internet +" College Students Innovation and Entrepreneurship Competition **Gold Award**
@@ -28,4 +27,4 @@ Feel free to reach out if you would like to chat!
 
 ***Sep 2022***. Third Prize for Excellent Student Leaders, Shenzhen University
 
-***Sep 2022*.** Third Prize for Star of Learning, Shenzhen University
+***Sep 2022***. Third Prize for Star of Learning, Shenzhen University
