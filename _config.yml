@@ -176,19 +176,15 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-
+  Awards:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -219,10 +215,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Award
+  # _Awards
   - scope:
       path: ""
-      type: Award
+      type: Awards
     values:
       layout: single
       author_profile: true
