@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : "wechat.png"
 
 
 # Reading Files
@@ -182,7 +181,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  Awards:
+  awards:
+    output: true
+    permalink: /:collection/:path/
+  cv:
     output: true
     permalink: /:collection/:path/
 
@@ -215,10 +217,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Awards
+  # _awards
   - scope:
       path: ""
-      type: Awards
+      type: awards
     values:
       layout: single
       author_profile: true
